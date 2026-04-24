@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.04.24 18:17:18.192,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.24 18:17:18.368,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.04.24 18:19:39.398,D:\Projects\Programming\C\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfStringPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.04.24 18:19:39.408,D:\Projects\Programming\C\BDS\Console\Algorithms\CountSymbolOfString\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>2026.04.24 18:19:39.419,D:\Projects\Programming\C\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfString.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.04.24 18:19:50.633,D:\Projects\Programming\C\BDS\Console\Algorithms\CountSymbolOfString\CountSymbolOfString.c=D:\Projects\Programming\C\BDS\Console\Algorithms\CountSymbolOfString\File1.c</Transaction>
+  </Transactions>
+</BorlandProject>
